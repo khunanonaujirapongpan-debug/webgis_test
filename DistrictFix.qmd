@@ -1,0 +1,32 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.44.1-Solothurn">
+  <identifier></identifier>
+  <parentidentifier></parentidentifier>
+  <language></language>
+  <type>dataset</type>
+  <title></title>
+  <abstract>เส้นเขตตำบล Indian1975 UTM Zone47
+ปรับปรุงข้อมูลล่าสุด ปี 2555-2556 (ปรับปรุงข้อมูลเส้นตำบลล่าสุด 26/03/2019=>ต.ปากน้ำ, ต.กระบี่ใหญ่ อ.เมืองกระบี่ จ.กระบี่)
+ที่มาของเส้นเขต : ได้มาจากการ Digitizing บนแผนที่กระดาษชุด L7017 ของกรมแผนที่ทหาร มาตราส่วน 1:50,000
+มีความคลาดเคลื่อน 50 เมตร (โดยประมาณ)
+
+</abstract>
+  <links/>
+  <dates/>
+  <fees></fees>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt></wkt>
+      <proj4>+proj=utm +zone=47 +datum=WGS84 +units=m +no_defs</proj4>
+      <srsid>3131</srsid>
+      <srid>32647</srid>
+      <authid>EPSG:32647</authid>
+      <description>WGS 84 / UTM zone 47N</description>
+      <projectionacronym>utm</projectionacronym>
+      <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent/>
+</qgis>
